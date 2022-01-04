@@ -16,5 +16,7 @@ In this project my main achievements were:
 - Deploy my own algorithmically generated NFT collection on the solana blockchain (devnet) using Metaplex
 - Create a small react app where users can mint their NFTs.
 
+# Links:
+
 - Check out the final version of the minter here: https://candy-machine-v2-minter.vercel.app/
 - And the backend repository here: https://github.com/diogofpmonteiro/metaplex-CMV2-minter
