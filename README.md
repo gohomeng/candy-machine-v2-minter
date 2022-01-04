@@ -18,3 +18,5 @@ In this project my main achievements were:
 
 Check out the final version of the minter here:
 https://candy-machine-v2-minter.vercel.app/
+And the backend repository here:
+https://github.com/diogofpmonteiro/metaplex-CMV2-minter
