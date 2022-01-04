@@ -15,3 +15,6 @@ In this project my main achievements were:
 - Generate the metadata for the NFT collection using the hashlips art generator
 - Deploy my own algorithmically generated NFT collection on the solana blockchain (devnet) using Metaplex
 - Create a small react app where users can mint their NFTs.
+
+Check out the final version of the minter here:
+https://candy-machine-v2-minter.vercel.app/
